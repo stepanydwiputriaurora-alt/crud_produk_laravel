@@ -98,7 +98,7 @@ http://127.0.0.1:8000
 # Author
 
 * Nama: [stepany]
-* GitHub: https://github.com/stepanydwiputriaurora/alt
+* GitHub: https://github.com/stepanydwiputriaurora-alt
 
 # License
 
